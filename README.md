@@ -30,23 +30,17 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Muhammad-awais-safdar/Ground-Booking-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-awais-safdar&repo=Ground-Booking-App&theme=tokyonight&border_radius=10" alt="Ground Booking App" />
+  <a href="https://github.com/Muhammad-awais-safdar/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-awais-safdar&repo=Portfolio&theme=tokyonight&border_radius=10" alt="Portfolio" />
   </a>
-  <a href="https://github.com/Muhammad-awais-safdar/Car-Rental-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-awais-safdar&repo=Car-Rental-Management-System&theme=tokyonight&border_radius=10" alt="Car Rental Management System" />
+  <a href="https://github.com/Muhammad-awais-safdar/Alchemybyte">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-awais-safdar&repo=Alchemybyte&theme=tokyonight&border_radius=10" alt="Alchemybyte" />
   </a>
-  <a href="https://github.com/Muhammad-awais-safdar/Restaurant-Booking-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-awais-safdar&repo=Restaurant-Booking-Website&theme=tokyonight&border_radius=10" alt="Restaurant Booking Website" />
+  <a href="https://github.com/Muhammad-awais-safdar/ecommerce-mohsin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-awais-safdar&repo=ecommerce-mohsin&theme=tokyonight&border_radius=10" alt="ecommerce-mohsin" />
   </a>
-  <a href="https://github.com/Muhammad-awais-safdar/Blood-Bank-Automation-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-awais-safdar&repo=Blood-Bank-Automation-App&theme=tokyonight&border_radius=10" alt="Blood Bank Automation App" />
-  </a>
-  <a href="https://github.com/Muhammad-awais-safdar/Event-Management-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-awais-safdar&repo=Event-Management-Website&theme=tokyonight&border_radius=10" alt="Event Management Website" />
-  </a>
-  <a href="https://github.com/Muhammad-awais-safdar/Furniture-Portfolio-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-awais-safdar&repo=Furniture-Portfolio-Website&theme=tokyonight&border_radius=10" alt="Furniture Portfolio Website" />
+  <a href="https://github.com/Muhammad-awais-safdar/Muhammad-awais-safdar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-awais-safdar&repo=Muhammad-awais-safdar&theme=tokyonight&border_radius=10" alt="Profile README" />
   </a>
 </p>
 
