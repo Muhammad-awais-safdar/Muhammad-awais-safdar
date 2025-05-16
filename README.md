@@ -86,7 +86,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7CFC00&center=true&vCenter=true&width=600&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22" alt="Motivational Quote" />
 </p>
 
-<!-- 🌊 SVG Wave Divider -->
+<!-- 🌊 Inline SVG Wave Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" alt="Wave SVG" />
+  <svg width="100%" height="100" viewBox="0 0 1200 120" preserveAspectRatio="none">
+    <path d="M0,0 V50 C150,100 350,0 600,50 C850,100 1050,0 1200,50 V0z" fill="#58A6FF" />
+  </svg>
 </p>
