@@ -1,9 +1,9 @@
 <!-- 🌟 Animated Typing Banner -->
+
+<h1 align="center">Hey there, I'm Awais 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Awais+Safdar!;Junior+Laravel+Developer+%7C+Frontend+Lover;Backend+Architect+%2B+Frontend+Magic;Let's+Build+Something+Awesome+Together!" alt="Typing SVG" />
 </p>
-
-<h1 align="center">Hey there, I'm Awais 👋</h1>
 
 <!-- 🚀 Tech Stack Badges -->
 <p align="center">
