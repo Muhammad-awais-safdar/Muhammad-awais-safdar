@@ -1,5 +1,4 @@
 <!-- 🌟 Animated Typing Banner -->
-
 <h1 align="center">Hey there, I'm Awais 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Awais+Safdar!;Junior+Laravel+Developer+%7C+Frontend+Lover;Backend+Architect+%2B+Frontend+Magic;Let's+Build+Something+Awesome+Together!" alt="Typing SVG" />
@@ -49,7 +48,7 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-awais-safdar&show_icons=true&theme=radical&border_radius=20" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-awais-safdar&show_icons=true&count_private=true&theme=radical&border_radius=20" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -57,8 +56,16 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-awais-safdar&theme=react-dark&area=true&hide_border=true&cache_bust=1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-awais-safdar&theme=react-dark&area=true&hide_border=true&custom_title=Awais%20Safdar%27s%20Contribution%20Graph" />
+</p>
 
+---
+
+## 🔢 Total Contributions (Including Private)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-awais-safdar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/contributions/Muhammad-awais-safdar?style=flat-square&color=brightgreen" alt="Total Contributions" />
 </p>
 
 ---
