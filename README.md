@@ -57,7 +57,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-awais-safdar&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-awais-safdar&theme=react-dark&area=true&hide_border=true&cache_bust=1" />
+
 </p>
 
 ---
