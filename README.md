@@ -65,7 +65,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muhammad-awais-safdar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/contributions/Muhammad-awais-safdar?style=flat-square&color=brightgreen" alt="Total Contributions" />
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-awais-safdar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
